@@ -16,10 +16,10 @@ source=("https://github.com/zfsonlinux/zfs/releases/download/zfs-${pkgver}/zfs-$
         "0001-only-build-the-module-in-dkms.conf.patch")
 sha256sums=('80da628a9543ec3355bf410617450e167706948ceb287541455a1b8d87b8758a'
             'SKIP'
-            '3039da5ecb6fe5f7dbaab8492f73d59bcafb8b22bd267f9d72a3ce5e70f82113')
+            '8d5c31f883a906ab42776dcda79b6c89f904d8f356ade0dab5491578a6af55a5')
 b2sums=('8a89c62cbbeaf410db4011821cdd9959abef1782be7427b81ac47565407384fa3a381bef041dae73e97c2b2cefca62933180851901b3b1b86974ed33ad178a61'
         'SKIP'
-        '26f28e841aafab9855791f2de45525ce26edd11a83d7e7bd7cc2f699bdba5dd8fd810827fba58365f655fdacd8a0f4f1febb1b339c17a7c4b3d498fb333ef6ac')
+        '58dc2494e71b50833d44c126b72acad52e9817626542afbc245b7ba82009e8c8252ebde6023592aac42d9942207e7655c0a421da9067fbdd619746ebc372d791')
 validpgpkeys=('4F3BA9AB6D1F8D683DC2DFB56AD860EED4598027'  # Tony Hutter (GPG key for signing ZFS releases) <hutter2@llnl.gov>
               'C33DF142657ED1F7C328A2960AB9E991C6AF658B') # Brian Behlendorf <behlendorf1@llnl.gov>
 
